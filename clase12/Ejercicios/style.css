@@ -1,0 +1,15 @@
+
+button{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: aquamarine;
+    border-radius: 25px;
+    margin: 10px;
+    height: 25px;
+    width: 100px;
+}
+
+img{
+    border-radius: 20px;
+    border: dashed;
+    border-color:brown;
+}

@@ -1,0 +1,135 @@
+
+*{
+    border: 1px solid red;
+    box-sizing: border-box;
+
+}
+
+h1{
+    border: 2px dashed black;
+    background-color: yellow;
+}
+
+.clase p{
+    background-color: aqua;
+}
+
+div{
+    border: 2px solid black;
+}
+
+
+
+/*.container{
+    background-color: bisque;
+}
+
+#uno{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+
+    position: static;
+}
+
+#dos{
+    background-color: lime;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+
+#tres{
+    background-color: coral;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+}
+
+#cuatro{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+
+    position: absolute;
+    top: 5px;
+    left: 25px;
+}
+
+#cinco{
+    background-color: rgb(52, 59, 65);
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+
+    position: relative;
+}
+
+span{
+    position: fixed;
+    background-color: aqua;
+    font-size: 100px;
+}
+/*.container{
+    background-color: bisque;
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+}
+#uno{
+    background-color: rgb(175, 249, 91);
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+}
+#dos{
+    background-color: rgb(251, 59, 59);
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+}
+#tres{
+
+    background-color: brown;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+}
+#cuatro{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+
+    position: absolute;
+    top: 5px;
+    left: 25px;
+}
+
+#cinco{
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+
+    position: relative;
+}

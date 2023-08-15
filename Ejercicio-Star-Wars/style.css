@@ -1,0 +1,39 @@
+
+body{
+    background-image:url(img/space-1164579_1280.webp) ;
+}
+
+.imperio{
+    background-color: red;
+    border: dashed;
+    letter-spacing: 2px;
+}
+
+.rebeldes{
+    background-color: blue;
+}
+#dv{
+    font-size: 30px ;
+    font-weight: 800;
+}
+
+#luke{
+    font-style: italic;
+}
+.naves{
+    text-transform: uppercase;
+}
+div{
+    text-align: center;
+
+}
+span{
+    color: yellow;
+
+}
+#or{
+    text-transform: uppercase;
+}
+h3 span{
+    text-align: center;
+}

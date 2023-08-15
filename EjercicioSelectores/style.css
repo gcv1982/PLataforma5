@@ -1,0 +1,42 @@
+
+body{
+    background-color:#3D5A80;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#f7ede2;
+}
+
+h1{
+    color: rgb(238, 108, 77);
+}
+
+h2{
+    color:#E0FBFC;
+}
+
+li{
+    color: rgb(255, 255, 255);
+}
+
+#bordeado{
+    border: 3px solid white;
+}
+
+.aloha{
+    background-color: #293241;
+    color: white;
+}
+input{
+    border: 2px dashed rgb(238, 108, 77);
+}
+div:nth-of-type(3){
+    background-color: blue;
+}
+
+div p{
+    color: #98C1D9;
+    font-size: 150%;
+    
+}
+a:visited{
+    color: white;
+}

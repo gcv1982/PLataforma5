@@ -1,0 +1,20 @@
+
+.pan{
+    background-color: bisque;
+    width: 300px;
+    height: 50px;
+    margin: 0 auto;
+    border-radius: 95px 95px 45px 45px;
+    border-bottom: 100px;
+   
+}
+.div2{
+    background-color: rgb(214, 46, 37);
+    width: 330px;
+    height: 45px;
+    border-radius: 50px;
+    margin: 0 auto;
+}
+#pan{
+    border-radius: 45px 45px 95px 95px;
+}
